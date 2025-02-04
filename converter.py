@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-dir_name = "Terminal2"
+dir_name = "ShinjukuTerminal"
 src_path = "./src/" + dir_name
 dest_path = "./output/" + dir_name
 
