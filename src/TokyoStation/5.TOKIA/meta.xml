@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<attribute>
+  <abstract>東京駅周辺屋内地図オープンデータ</abstract>
+  <author>国土交通省国土政策局国土情報課</author>
+  <project>高精度測位社会プロジェクト</project>
+  <facility>東京ビル（TOKIA）</facility>
+  <createdate>2018/8</createdate>
+  <source>
+    <name>フロアマップ</name>
+    <author>不明</author>
+    <createdate>2015/11</createdate>
+    <dataformat>画像</dataformat>
+    <scale>不明</scale>
+  </source>
+  <editmethod>Esri ArcGIS Desktop 10.2.2により作成</editmethod>
+  <survey>有</survey>
+</attribute>

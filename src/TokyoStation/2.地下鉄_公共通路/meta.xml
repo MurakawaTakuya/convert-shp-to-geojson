@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<attribute>
+  <abstract>東京駅周辺屋内地図オープンデータ</abstract>
+  <author>国土交通省国土政策局国土情報課</author>
+  <project>高精度測位社会プロジェクト</project>
+  <facility>都営地下鉄、東京メトロ、行幸地下ギャラリー、その他地下歩行者専用道</facility>
+  <createdate>2018/8</createdate>
+  <source>
+    <name>施設平面図/駅構内図</name>
+    <author>(施設平面図)不明(駅構内図)不明</author>
+    <createdate>(施設平面図)2015/9-2015/12(駅構内図)2015/9-2015/12</createdate>
+    <dataformat>(施設平面図)DWG/PDF(駅構内図)PDF/JPG</dataformat>
+    <scale>(施設平面図)1/200-1/1200(駅構内図)不明</scale>
+  </source>
+  <editmethod>Esri ArcGIS Desktop 10.2.2により作成</editmethod>
+  <survey>無</survey>
+</attribute>
