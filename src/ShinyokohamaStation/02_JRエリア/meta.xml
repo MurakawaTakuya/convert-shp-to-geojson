@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<attribute>
+  <abstract>新横浜駅屋内地図オープンデータ</abstract>
+  <author>国土交通省国土政策局国土情報課</author>
+  <project>高精度測位社会プロジェクト</project>
+  <facility>JR新横浜駅</facility>
+  <createdate>2018/8</createdate>
+  <source>
+    <name>施設平面図</name>
+    <author>不明</author>
+    <createdate>2017/11</createdate>
+    <dataformat>PDF</dataformat>
+    <scale>1/800</scale>
+  </source>
+  <editmethod>Esri ArcGIS Desktop 10.2.2により作成</editmethod>
+  <survey>無</survey>
+</attribute>

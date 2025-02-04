@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-dir_name = "NissanStd"
+dir_name = "ShinyokohamaStation"
 src_path = "./src/" + dir_name
 dest_path = "./output/" + dir_name
 
