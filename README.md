@@ -19,4 +19,4 @@
 - `NaritaAirport`: [成田国際空港屋内地図オープンデータ（令和２年度更新版）](https://www.geospatial.jp/ckan/dataset/mlit-indoor-narita-airport-r2)
 - `NissanStd`: [横浜国際総合競技場屋内地図オープンデータ](https://www.geospatial.jp/ckan/dataset/mlit-indoor-yokohama-arena)
 - `ShinyokohamaStation`: [新横浜駅屋内地図オープンデータ](https://www.geospatial.jp/ckan/dataset/mlit-indoor-shin-yokohama)
-- `TokyoStation`: [東京駅周辺屋内地図オープンデータ（令和元年度版）](https://www.geospatial.jp/ckan/dataset/mlit-indoor-tokyo)
+- `TokyoStation`: [東京駅周辺屋内地図オープンデータ（令和２年度更新版）](https://www.geospatial.jp/ckan/dataset/mlit-indoor-tokyo-r2)

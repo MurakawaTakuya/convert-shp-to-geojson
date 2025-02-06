@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <attribute>
   <abstract>東京駅周辺屋内地図オープンデータ</abstract>
-  <author>国土交通省国土政策局国土情報課</author>
+  <author>国土交通省不動産・建設経済局情報活用推進課</author>
+  <description>大手町駅との接続部分のみ地図修正</description>
   <project>高精度測位社会プロジェクト</project>
   <facility>丸の内永楽ビルディング（イーヨ）</facility>
-  <createdate>2018/8</createdate>
+  <createdate>2020/8</createdate>
   <source>
     <name>フロアマップ</name>
     <author>不明</author>
@@ -13,5 +14,5 @@
     <scale>不明</scale>
   </source>
   <editmethod>Esri ArcGIS Desktop 10.2.2により作成</editmethod>
-  <survey>有</survey>
+  <survey>無</survey>
 </attribute>
